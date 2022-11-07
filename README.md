@@ -7,7 +7,7 @@ Experienced Python and C++ developer who enjoys working with GIS and spatial dat
 <p align="left">
 <a href="https://github.com/minorsecond">
   <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api?username=minorsecond&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=minorsecond&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=minorsecond&layout=compact&langs_count=8&theme=dark&exclude_repo=host-vector-human-model"/>
 </a>
 </p>
 
