@@ -6,8 +6,8 @@ Experienced Python and C++ developer who enjoys working with GIS and spatial dat
 
 <p align="left">
 <a href="https://github.com/minorsecond">
-  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api?username=minorsecond&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=minorsecond&layout=compact&langs_count=8&theme=dark&exclude_repo=host-vector-human-model"/>
+  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api?username=minorsecond&count_private=true&show_icons=true&include_all_commits=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=minorsecond&layout=compact&langs_count=8&theme=transparent&exclude_repo=host-vector-human-model"/>
 </a>
 </p>
 
@@ -35,8 +35,8 @@ Experienced Python and C++ developer who enjoys working with GIS and spatial dat
 
 <p align="left">
 <a href="https://github.com/minorsecond">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=minorsecond&theme=dark&hide_border=false"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=minorsecond&theme=transparent&hide_border=false"/>
 </a>
 </p>
 
-<!--![Profile views](https://gpvc.arturio.dev/minorsecond)-->
+![Profile views](https://gpvc.arturio.dev/minorsecond)
