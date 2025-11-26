@@ -42,7 +42,8 @@ Check out the pinned repositories below for more details 👇
 
 ### 🧪 Languages & Tools
 
-<p align="left">
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
@@ -50,7 +51,8 @@ Check out the pinned repositories below for more details 👇
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
-</p>
+
+</div>
 
 ---
 
