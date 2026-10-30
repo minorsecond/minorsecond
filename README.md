@@ -6,8 +6,6 @@ I'm a GIS developer in Colorado. My day job is contract work on FEMA's Hazus pla
 
 - **MESA** (Mapping Epidemiology for Sparse Areas) is geostatistical software for small-area disease mapping. It does Gi* hot-spot detection and empirical Bayes rate smoothing in a node-based workflow. I use it for my West Nile work, and a small health department in Utah uses it too. [spatialepi.org](https://spatialepi.org)
 - **axterm** is a packet radio terminal. I run it on my Mac, iPad and iPhone for AX.25 packet and Winlink.
-- **Timbra** is a macOS logbook for home recording. It keeps track of releases, sessions and signal chains, and it measures loudness and tone across an album so you can see which tracks don't sit with the rest.
-- **Practice Room** is a web app for logging music practice, repertoire, lessons and gigs.
 
 ## Older projects
 
